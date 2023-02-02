@@ -1,3 +1,3 @@
 # git_test
-test repo
-Hello Odin
+test repo;
+Hello Odin;
